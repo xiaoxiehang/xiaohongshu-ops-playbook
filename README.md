@@ -1,5 +1,7 @@
 # xiaohongshu-ops-playbook
 
+**小红书AI运营手册** —— 同名小红书 Red Skill（Skill ID `xhs-ai-ops`，已生效）的方法论开源版；发笔记时可从「发布页 - 添加组件 - Red Skill」挂载。
+
 一套从真实账号跑出来的小红书垂类账号全链路运营规范：选题 → 文案 → 图文卡片 → 发布 → 数据复盘 → 每日学习沉淀。Agent 照此可独立运营一个 AI 教程类账号，人类只处理登录等机器做不了的环节。
 
 > An executable operations playbook for running a Xiaohongshu (RED) tutorial account end-to-end with an AI agent: topic selection (with a hard academic-integrity red line), copywriting, card design, publishing, data review, and a daily learning loop that keeps the playbook itself evolving.
